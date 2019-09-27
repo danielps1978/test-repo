@@ -1,24 +1,24 @@
-hangoutsNotify token: "ODEzZGQ4YjItMTZiMS00OTMx",
+hangoutsNotify token: "YzVhODEyM2EtZjc4NC00ZDFj",
     message: "Lorem Ipsum is simply dummy text",
+    threadByJob: false
+
+hangoutsNotifySuccess token: "YzVhODEyM2EtZjc4NC00ZDFj",
+    threadByJob: false
+
+hangoutsNotifyFailure token: "YzVhODEyM2EtZjc4NC00ZDFj",
     threadByJob: true
 
-hangoutsNotifySuccess token: "ODEzZGQ4YjItMTZiMS00OTMx",
+hangoutsNotifyBuildStart token: "YzVhODEyM2EtZjc4NC00ZDFj",
     threadByJob: true
 
-hangoutsNotifyFailure token: "ODEzZGQ4YjItMTZiMS00OTMx",
+hangoutsNotifyBackToNormal token: "YzVhODEyM2EtZjc4NC00ZDFj",
     threadByJob: true
 
-hangoutsNotifyBuildStart token: "ODEzZGQ4YjItMTZiMS00OTMx",
+hangoutsNotifyAborted token: "Mzc5ZmIxNmUtNTc5NC00NWEy",
     threadByJob: true
 
-hangoutsNotifyBackToNormal token: "ODEzZGQ4YjItMTZiMS00OTMx",
+hangoutsNotifyNotBuilt token: "Mzc5ZmIxNmUtNTc5NC00NWEy",
     threadByJob: true
 
-hangoutsNotifyAborted token: "ODEzZGQ4YjItMTZiMS00OTMx",
-    threadByJob: true
-
-hangoutsNotifyNotBuilt token: "ODEzZGQ4YjItMTZiMS00OTMx",
-    threadByJob: true
-
-hangoutsNotifyUnstable token: "ODEzZGQ4YjItMTZiMS00OTMx",
+hangoutsNotifyUnstable token: "Mzc5ZmIxNmUtNTc5NC00NWEy",
     threadByJob: true
